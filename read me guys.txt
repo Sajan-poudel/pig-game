@@ -1,0 +1,23 @@
+
+/*
+Game rules hai guys:
+
+there are two players.
+
+ani they are supposed to roll the dice.
+
+and they can roll as many as they want until the dice show 1
+
+while rolling each time the point is added up .
+
+as soon dice show 1 the whole holded points will be zero .
+
+as the player thinks its risky to roll many times. they can hold their point which is added to total score.
+
+if any player achive >= 100 they they are consider as winner...
+
+yo game pahilai nai xa hai 
+
+this game is called pig game.......
+
+*/
